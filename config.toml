@@ -1,0 +1,4 @@
+baseurl = "http://mobplug.com/"
+languageCode = "en-us"
+title = "mobplug - crafting software"
+canonifyurls = true
